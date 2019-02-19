@@ -1,1 +1,1 @@
-# Doner-Sipar-s-Otomasyonu
+# Doner-Siparis-Otomasyonu
