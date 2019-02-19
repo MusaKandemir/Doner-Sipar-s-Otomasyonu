@@ -1,0 +1,10 @@
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\bin\Debug\formlar ve butonlar deneme.exe.config
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\bin\Debug\formlar ve butonlar deneme.exe
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\bin\Debug\formlar ve butonlar deneme.pdb
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar_ve_butonlar_deneme.Form1.resources
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar_ve_butonlar_deneme.Properties.Resources.resources
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar ve butonlar deneme.csproj.GenerateResource.Cache
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar ve butonlar deneme.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar ve butonlar deneme.exe
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar ve butonlar deneme.pdb
+c:\users\lenovo\source\repos\formlar ve butonlar deneme\formlar ve butonlar deneme\obj\Debug\formlar ve butonlar deneme.csprojResolveAssemblyReference.cache
